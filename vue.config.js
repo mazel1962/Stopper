@@ -2,7 +2,7 @@ const fs = require('fs');
 
 module.exports = {
   devServer: {
-    open: process.platform === 'german',
+    open: process.platform === 'juancarlos',
     host: '0.0.0.0',
     port: 8080,
     https: {
